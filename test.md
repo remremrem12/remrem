@@ -99,14 +99,12 @@ VCに入るとき
 shovel: !sh help
 喋太郎: ?help
 Rythm:!help
-Rythm2:>help
-tatsumaki:t!help
-ほかの人をお誘いする場合
-
-招待をする場合は以下のリンクから。
 
 こころ避難所 | DISBOARD: Discord サーバー掲示板
 なお、Discord側の処理でサーバーに入れない場合があります。その際には、アプリから明示的に「サーバーに参加」を選択し、「https://discordapp.com/invite/gVUJGqq」を指定してください。
 
 
 botyuuusendo
+
+
+kakitasito
